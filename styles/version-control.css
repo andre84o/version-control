@@ -39,10 +39,25 @@ body {
 
 
 .git-commands__effect {
-    background-color: #424c59;;
+    background-color: #424c59;
     padding: 16px;
     font-size: 1.5 rem;
 }
 
+.contact-number {
+    margin: 0;
+    padding: 24px;
+    text-align: center;
+    font-size: 36px;
+    color: black;
+    background-color: #424c59;
+}
 
+.contact-number a {
+    color: black;
+}
+
+.contact-number a:hover {
+    color: blue;
+}
   
